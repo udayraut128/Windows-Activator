@@ -3,8 +3,6 @@ A Windows Activator is a tool used to activate Windows without a genuine product
 
 
 
-# Windows-Activator
-
 **Windows-Activator** is a simple batch-based script that helps users activate various versions of Windows 10 without requiring a product key. It uses a KMS-based method to simulate activation and unlock all premium features.
 
 > ⚠️ **Disclaimer:** This tool is intended for educational purposes only. Using unauthorized activation tools may violate Microsoft's terms of service. It is always recommended to use genuine product keys obtained legally.
